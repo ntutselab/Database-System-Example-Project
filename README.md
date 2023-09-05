@@ -25,6 +25,7 @@
 ##### *(If you have already installed them, you can skip this step.)*
 
 **XAMPP**
+
 1.
  ![](https://i.imgur.com/sQVWFaT.png)
 
